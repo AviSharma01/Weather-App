@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 Weather App with JavaScript, HTML, CSS. The app incorporates the weather API from openweathermap.org
 
