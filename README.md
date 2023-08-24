@@ -5,9 +5,9 @@ Weather App with JavaScript, HTML, CSS. The app incorporates the weather API fro
 ### Disclaimer
 
 You need an API Key to run the project, replace it in the line 9 of index.js file:
-''' 
+``` 
 const APIKey = 'ADD-KEY';
-'''
+```
 
 ### Project Screenshot
 
