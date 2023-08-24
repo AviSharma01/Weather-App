@@ -5,7 +5,9 @@ Weather App with JavaScript, HTML, CSS. The app incorporates the weather API fro
 ### Disclaimer
 
 You need an API Key to run the project, replace it in the line 9 of index.js file:
-https://github.com/AviSharma01/Weather-App/blob/bd68f3fa95d12925d3103876b0ac864498d9beba/index.js#L9C5-L9C6
+''' 
+const APIKey = 'ADD-KEY';
+'''
 
 ### Project Screenshot
 
